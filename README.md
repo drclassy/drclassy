@@ -614,43 +614,32 @@ A healthcare referral and routing surface with diagnosis endpoint concepts, sema
 
 ## ── CONTACT DESK
 
-<table>
-<tr>
-<td width="33%" align="center" valign="top">
-<b>Website</b><br />
-<a href="https://ferdiiskandar.com">ferdiiskandar.com</a>
-</td>
-<td width="33%" align="center" valign="top">
-<b>Email</b><br />
-<a href="mailto:drferdiiskandar@melinda.co.id">drferdiiskandar@melinda.co.id</a><br />
-<a href="mailto:drferdiiskandar@sentrahai.com">drferdiiskandar@sentrahai.com</a>
-</td>
-<td width="33%" align="center" valign="top">
-<b>Medium</b><br />
-<a href="https://medium.com/@claudesy.id">@claudesy.id</a>
-</td>
-</tr>
-<tr>
-<td width="33%" align="center" valign="top">
-<b>LinkedIn</b><br />
-<a href="https://www.linkedin.com/in/dr-ferdi-iskandar-1b620a3b5/">dr Ferdi Iskandar</a>
-</td>
-<td width="33%" align="center" valign="top">
-<b>Google Dev</b><br />
-<a href="https://g.dev/classyy">g.dev/classyy</a>
-</td>
-<td width="33%" align="center" valign="top">
-<b>X</b><br />
-<a href="https://x.com/ClaudesyI81047">@ClaudesyI81047</a>
-</td>
-</tr>
-<tr>
-<td width="100%" colspan="3" align="center" valign="top">
-<b>Kaggle</b><br />
-<a href="https://www.kaggle.com/drferdiiskandar">kaggle.com/drferdiiskandar</a>
-</td>
-</tr>
-</table>
+<p align="center">
+  <a href="https://ferdiiskandar.com" target="_blank">
+    <img src="https://img.shields.io/badge/Website-111111?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" />
+  </a>
+  <a href="mailto:drferdiiskandar@melinda.co.id">
+    <img src="https://img.shields.io/badge/Melinda%20Email-8B0000?style=for-the-badge&logo=gmail&logoColor=white" alt="Melinda Email" />
+  </a>
+  <a href="mailto:drferdiiskandar@sentrahai.com">
+    <img src="https://img.shields.io/badge/Sentra%20Email-1A1A1A?style=for-the-badge&logo=gmail&logoColor=white" alt="Sentra Email" />
+  </a>
+  <a href="https://medium.com/@claudesy.id" target="_blank">
+    <img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" />
+  </a>
+  <a href="https://www.linkedin.com/in/dr-ferdi-iskandar-1b620a3b5/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://g.dev/classyy" target="_blank">
+    <img src="https://img.shields.io/badge/Google%20Dev-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google Dev" />
+  </a>
+  <a href="https://x.com/ClaudesyI81047" target="_blank">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
+  </a>
+  <a href="https://www.kaggle.com/drferdiiskandar" target="_blank">
+    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" />
+  </a>
+</p>
 
 ---
 

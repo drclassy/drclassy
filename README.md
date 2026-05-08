@@ -9,11 +9,11 @@
 <td width="36%" align="center" valign="middle">
   <img src="https://i.postimg.cc/tT63zMZt/Boss.png" alt="dr Classy / dr Ferdi Iskandar" width="250" />
   <br />
-  <sub><b>dr Classy</b> · Founder · Physician · Healthcare AI Builder</sub>
+  <sub><b>dr Classy</b> · Proud Public Servant</sub>
 </td>
 <td width="64%" valign="middle">
 
-# THE DR CLASSY LEDGER
+# IM CLASSY
 
 ### Healthcare Artificial Intelligence · Clinical Systems · Indonesian Medical Infrastructure
 
@@ -585,25 +585,31 @@ A healthcare referral and routing surface with diagnosis endpoint concepts, sema
 
 ## ── OFFICIAL SPONSOR
 
-<table>
+<table width="100%">
 <tr>
-<td width="50%" valign="top">
-
-### RSIA Melinda DHAI
-
-Strategic healthcare collaboration and institutional support in the development of applied clinical intelligence systems, operational interoperability, and hospital-centered AI workflows.
-
+<td width="50%" align="center" valign="top">
+  <img src="https://i.postimg.cc/8kJKKTrr/rsiamelinda.avif" alt="RSIA Melinda DHAI" width="160" />
+  <br /><br />
+  <b>RSIA Melinda DHAI</b>
+  <br />
+  <sub>
+    Strategic healthcare collaboration and institutional support in the development
+    of applied clinical intelligence systems, operational interoperability, and
+    hospital-centered AI workflows.
+  </sub>
 </td>
-<td width="50%" valign="top">
-
-### MedLab
-
-Supporting ecosystem for medical and diagnostic innovation, aligned with healthcare workflow modernization, data intelligence, and practical AI deployment.
-
+<td width="50%" align="center" valign="top">
+  <img src="https://i.postimg.cc/gkh7JGz2/sidelab-logo2.png" alt="MedLab" width="160" />
+  <br /><br />
+  <b>MedLab</b>
+  <br />
+  <sub>
+    Supporting ecosystem for medical and diagnostic innovation, aligned with
+    healthcare workflow modernization, data intelligence, and practical AI deployment.
+  </sub>
 </td>
 </tr>
 </table>
-
 ---
 
 ## ── CONTACT DESK

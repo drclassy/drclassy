@@ -40,7 +40,7 @@
 
 ## ── FRONT PAGE · WHO I AM
 
-I am **dr Classy**, a physician-founder building **Sentra Artificial Intelligence**: a healthcare AI ecosystem focused on clinical reasoning, medical workflow automation, patient journey intelligence, and Indonesian healthcare infrastructure.
+I am **dr Classy**, an hospital CEO, physician-founder building **Sentra Artificial Intelligence**: a healthcare AI ecosystem focused on clinical reasoning, medical workflow automation, patient journey intelligence, and Indonesian healthcare infrastructure.
 
 My work sits at the intersection of clinical judgment, AI infrastructure, and real-world hospital operations.
 

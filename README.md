@@ -7,7 +7,7 @@
 <table width="100%">
 <tr>
 <td width="36%" align="center" valign="middle">
-  <img src="[https://i.postimg.cc/tT63zMZt/Boss.png](https://i.postimg.cc/PfgHSSJr/drferdi.png)" alt="dr Classy / dr Ferdi Iskandar" width="250" />
+  <img src="[[https://i.postimg.cc/tT63zMZt/Boss.png](https://i.postimg.cc/PfgHSSJr/drferdi.png)](https://i.postimg.cc/PfgHSSJr/drferdi.png)" alt="dr Classy / dr Ferdi Iskandar" width="250" />
   <br />
   <sub><b>dr Classy</b> · Proud Public Servant</sub>
 </td>

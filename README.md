@@ -13,7 +13,7 @@
 </td>
 <td width="64%" valign="middle">
 
-# IM CLASSY
+# I'm Classy
 
 ### Healthcare Artificial Intelligence · Clinical Systems · Indonesian Medical Infrastructure
 
